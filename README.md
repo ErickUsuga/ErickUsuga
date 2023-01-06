@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErickUsuga
 - 👀 I’m interested in knowlegde
 - 🔭 I am currently working on finishing my studies at the University
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and javaScript
 - 💞️ I’m looking to collaborate and  contribute to new learning
 
 
